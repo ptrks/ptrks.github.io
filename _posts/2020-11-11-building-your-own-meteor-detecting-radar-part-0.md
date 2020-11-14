@@ -29,7 +29,7 @@ This initial post really isn't meant to cover any project specific material. Ins
 ------
 
 **Part 2 - Planning & Design**
-- SDR requirements (multi-channel cohesive receiver)
+- SDR requirements (multi-channel coherent receiver)
 - Antenna requirements & design
 - Computing / software requirements 
 - Simulating antenna RF characteristics
@@ -40,5 +40,7 @@ This initial post really isn't meant to cover any project specific material. Ins
 - Validating antenna performance
 
 ----
+
+**And Beyond - TBD**
 
 
